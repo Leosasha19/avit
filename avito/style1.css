@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+.header {
+    height: 6vh;
+    background-color: rgb(41, 40, 40);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+.leftofheader {
+    color: white;
+    display: flex;
+    width: 35vh;
+    justify-content: space-around;
+}
+.rightofheader {
+    color: white;
+    display: flex;
+    width: 85vh;
+    justify-content: space-around;
+    align-items: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.firstline {
+    display: flex;
+    justify-content: space-around;
+    width: 75vh;
+    height: 5vh;
+    align-items:center;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-top: 3vh;
+}
+.iconic {
+    width: 30px;
+}
+.b1 {
+    background: rgb(56, 161, 222);
+    color: white;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    width: 25vh;
+}
+.menuvypad {
+    height: 20px;
+    width: 20vh;
+    border: none;
+    background: rgb(41, 40, 40);
+    color: white;
+}
+.avito {
+    width: 15vh;
+}
+a.asd {
+    color: black;
+}
+.menuvypad2 {
+    width: 7vh;
+    border: none;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.body {
+    display: flex;
+    padding-left: 9vh;
+    padding-top: 7vh;
+    padding-right: 5vh;
+}
+.ava {
+    height: 16vh;
+}
+.rating-result {
+	width: 135px;
+	margin: 0 auto;
+}
+.rating-result span {
+	padding: 0;
+	font-size: 17px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;
+}
+.rating-result > span:before {
+	content: '★';
+}
+.rating-result > span.active {
+	color: orange;
+}
+.ratingbox {
+    display: flex;
+    justify-content: left;
+}
+.otziv {
+    color: rgb(56, 161, 222);
+}
+.line {
+    border-bottom: 1px solid rgb(229, 226, 226);
+    padding-top: 2vh;
+}
+.rightmenu {
+    padding-top: 3vh;
+    padding-left: 13vh;
+    width: 150vh;
+}
+.izb {
+    color: black;
+}
+.line1 {
+    display: flex;
+    padding-top: 2vh;
+    justify-content: space-around;
+    width: 40vh;
+    align-items: center;
+}
+.obv {
+    border: none;
+    height: 35px;
+    width: 100px;
+    border-radius: 30px;
+    font-weight: 800;
+}
+.imgizbr {
+    height: 23vh;
+}
+.laaa {
+    display: flex;
+    padding-top: 3vh;
+}
+.righttext {
+    padding-left: 3vh;
+}
+.day {
+    color: rgb(167, 166, 166);
+}

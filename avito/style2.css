@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+.header {
+    height: 6vh;
+    background-color: rgb(41, 40, 40);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+.leftofheader {
+    color: white;
+    display: flex;
+    width: 35vh;
+    justify-content: space-around;
+}
+.rightofheader {
+    color: white;
+    display: flex;
+    width: 85vh;
+    justify-content: space-around;
+    align-items: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.firstline {
+    display: flex;
+    justify-content: space-around;
+    width: 75vh;
+    height: 5vh;
+    align-items:center;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-top: 3vh;
+}
+.iconic {
+    width: 30px;
+}
+.b1 {
+    background: rgb(56, 161, 222);
+    color: white;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    width: 25vh;
+}
+.menuvypad {
+    height: 20px;
+    width: 20vh;
+    border: none;
+    background: rgb(41, 40, 40);
+    color: white;
+}
+.avito {
+    width: 15vh;
+}
+a.asd {
+    color: black;
+}
+.menuvypad2 {
+    width: 7vh;
+    border: none;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+.body {
+    display: flex;
+    padding-left: 9vh;
+    padding-top: 7vh;
+    padding-right: 5vh;
+}
+.ava {
+    height: 16vh;
+}
+.rating-result {
+	width: 135px;
+	margin: 0 auto;
+}
+.rating-result span {
+	padding: 0;
+	font-size: 17px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;
+}
+.rating-result > span:before {
+	content: '★';
+}
+.rating-result > span.active {
+	color: orange;
+}
+.ratingbox {
+    display: flex;
+    justify-content: left;
+}
+.otziv {
+    color: rgb(56, 161, 222);
+}
+.line {
+    border-bottom: 1px solid rgb(229, 226, 226);
+    padding-top: 2vh;
+}
+.izb {
+    color: black;
+}
+.rightmenu {
+    padding-left: 14vh;
+}
+.bluefone {
+    background-color: rgb(229, 241, 252);
+    height: 18vh;
+    width: 130vh;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding-left: 4vh;
+}
+.blueimg {
+    height: 120px;
+    padding-right: 4vh;
+}
+.lefttext {
+    line-height: 30px;
+}
+.myobv {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.grayfone {
+    padding-left: 1vh;
+    background-color: rgb(237, 236, 236);
+    height: 8vh;
+    width: 40vh;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+.money {
+    height: 55px;
+    border-radius: 10px;
+    padding-right: 3vh;
+}
+.waiting {
+    display: flex;
+    padding-top: 2vh;
+    border-bottom: 2px solid rgb(229, 226, 226);
+    padding-top: 2vh;
+}
+.arhiv {
+    border-bottom: 3px solid rgb(0, 0, 0);
+}
+.dei {
+    padding-right: 8vh;
+    color: rgb(178, 178, 178);
+}
+.chek {
+    background-color: gray;
+}
+.pl {
+    padding-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.plline {
+    height: 26px;
+    width: 25vh;
+    border: none;
+    background: rgb(237, 237, 237);
+    color: rgb(160, 160, 160);
+    border: none;
+    border-radius: 5px;
+}
+.box {
+    padding-right: 2vh;
+}
+.plline2 {
+    height: 26px;
+    width: 25vh;
+    border: none;
+    background: rgb(237, 237, 237);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+}
+.leftknop {
+    display: flex;
+    align-items: center;
+}
+.iphone {
+    height: 25vh;
+    margin-right: 3vh;
+}
+.bottom {
+    display: flex;
+}
+.cena {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.mesto {
+    color: rgb(162, 162, 162);
+}
+.boxl {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3vh;
+}
+.line3 {
+    height: 26px;
+    width: 5vh;
+    border: none;
+    background: rgb(237, 237, 237);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+}
